@@ -1,16 +1,18 @@
-## Hi there 👋
+# Kryssordhjelp 🧩
 
-<!--
-**josuekongolo/josuekongolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Norges beste ressurs for kryssordløsning og synonymer.
 
-Here are some ideas to get you started:
+## Populære søk
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Transportmiddel kryssord](https://krysshjelp.no/kryssord/transportmiddel)
+- [Ødelegge kryssord](https://krysshjelp.no/kryssord/ødelegge)
+- [Treslag kryssord](https://krysshjelp.no/kryssord/treslag)
+- [Personligheter kryssord](https://krysshjelp.no/kryssord/personligheter)
+- [Befordringsmiddel kryssord](https://krysshjelp.no/kryssord/befordringsmiddel)
+- [Vann kryssord](https://krysshjelp.no/kryssord/vann)
+- [Kryssordhjelp](https://krysshjelp.no)
+
+## Om siden
+
+[Krysshjelp.no](https://krysshjelp.no) er en gratis kryssordløser for norske kryssord.
+
